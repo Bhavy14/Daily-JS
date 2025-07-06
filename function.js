@@ -14,3 +14,10 @@ function add(a,b,c=4){
 ans = add(3,5);
 
 console.log('Addition : '+ans);
+
+
+const a = (x)=>{
+    console.log('Hello, '+x)
+}
+
+a(12)
