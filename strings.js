@@ -1,3 +1,4 @@
+//strings are immutable
 const name = "Bhavy"
 const cpunt = 12
 
@@ -9,7 +10,7 @@ const gameName = new String('Time-pass')
 
 // console.log(gameName[2]);
 // console.log(gameName.__proto__);
-
+ 
 // console.log(gameName.length);
 // console.log(gameName.toUpperCase());
 
