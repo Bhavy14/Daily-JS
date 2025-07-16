@@ -20,4 +20,4 @@ const filterEx = (e)=>{
     return false;
 }
 
-console.log(a.filter(filterEx))
+console.log(a.filter(filterEx                                                                            ))
